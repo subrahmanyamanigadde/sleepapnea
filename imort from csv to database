@@ -1,0 +1,23 @@
+LOAD DATA LOCAL INFILE "C:/Users/Smile/Desktop/temp.csv" INTO TABLE hackathon.temp
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(time, temp);
+
+LOAD DATA LOCAL INFILE "C:/Users/Smile/Desktop/pulse.csv" INTO TABLE hackathon.pulse
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(time, pulse);
+
+
+
+" C:/Users/Smile/Desktop/pulse.csv represents the location of the file.
+
+in general the code will be:
+
+LOAD DATA LOCAL INFILE ":/location of the file(csv format)" INTO TABLE databasename.tablename
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(value,value);
