@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Sleep Apnea Prediction
 
-You can use the [editor on GitHub](https://github.com/Subrahmanya23/sleepapnea/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Create your own java application to represent the data required to predict the sleep apnea
 
 ### Markdown
 
