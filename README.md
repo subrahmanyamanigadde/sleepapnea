@@ -10,4 +10,7 @@ Building a Java Swing Application (GUI) using ECLIPSE software
          
          These files contains the program to create graphs of temperature, oxygen level in the blood, pulse rate and body motion
          
-   3.
+   3. External jar files contains  the library required to build the project without errors
+   
+   #### How to build the application>??????????
+Soon i will upload a youtube vedio link
