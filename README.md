@@ -13,4 +13,19 @@ Building a Java Swing Application (GUI) using ECLIPSE software
    3. External jar files contains  the library required to build the project without errors
    
    # How to build the application>??????????
-Soon i will upload a youtube vedio link
+
+## youtube vedio links
+
+### 1.Database creation
+
+         https://youtu.be/RkCD9SMMq3c
+
+### 2.Java application Creation
+
+###         Part 1
+         
+         https://youtu.be/hTL65YZ_K6g
+         
+###         Part 2  
+
+         https://youtu.be/IuFmarful1Q
